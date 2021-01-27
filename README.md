@@ -1,6 +1,6 @@
 # CryptarithmCalc
 
-## What is This?
+## What is this?
 This program is created to solve Cryptarithms problem by using Brute Force strategy. Assignment from IF2211: Algorithm Strategy
 
 ## Any requirements to run this?
